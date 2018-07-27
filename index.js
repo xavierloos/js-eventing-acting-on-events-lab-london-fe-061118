@@ -1,1 +1,1 @@
-function moveDodger
+ function moveDodgeRight
