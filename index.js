@@ -1,1 +1,3 @@
- function moveDodgeRight
+ function moveDodgeRight(){
+   
+ }
