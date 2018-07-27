@@ -1,5 +1,5 @@
  
  var dodger = document.getElementById('dodger')
- function moveDodgeRight(){
+ document.addEventListener('keydown', function moveDodgeRight(){
    
- }
+ })
